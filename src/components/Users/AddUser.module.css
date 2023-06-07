@@ -6,3 +6,30 @@
 	display: flex;
 	justify-content: center;
 }
+
+
+.form label{
+	
+	font-weight: 800;
+	font-size: 18px;
+	
+}
+
+.form input{
+	box-sizing: border-box;
+	height: 25px ;
+	width: 100%;
+	border: 1px solid #E6E6E6;
+	margin-top: 10px;
+	margin-bottom: 10px;
+	
+}
+
+.form button {
+	margin-left: 30%;
+	justify-content: center;
+}
+
+
+
+
